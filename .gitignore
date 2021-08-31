@@ -1,0 +1,4 @@
+*.yml
+*_MACOSX
+*.ipynb_checkpoints
+*.md
